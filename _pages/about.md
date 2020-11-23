@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I enjoy helping things to ferment.
 
+I've experimented with lots of fermentation techniques - I've used yeast to make a lot of bread and some award-winning beers, but I've also made more experimental ferments like soy sauce, miso, kombucha and more.
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This blog is a place for me to record my experiments and what I cooked with the successful ferments. Hopefully other fermentation fans will find this useful.
