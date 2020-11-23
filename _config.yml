@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Fermentation Projects
+description: Experiments in Fermentation and Cooking with Fermented Products.
 github_username: simongladding
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fermentation-projects"
@@ -39,7 +39,7 @@ baseurl: "/fermentation-projects" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
+    twitter: fermentation_pr
     github: fastai
 
 # Set this to true to get LaTeX math equation support
